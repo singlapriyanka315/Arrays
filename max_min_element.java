@@ -28,14 +28,5 @@ public class max_min_element {
             arr[i]= sc.nextInt();
         }
          maximum(arr,n);
-
-
-
-
-
-
-
-    }
-
-    
+    } 
 }
