@@ -4,7 +4,7 @@ public class max_min_element {
         int i;
         int max =arr[0];
         int min = arr[1];
-        for( i=2;i<n;i++){
+        for( i=0;i<n;i++){
             if(min>arr[i]){
                 min=arr[i];
             }
