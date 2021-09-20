@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class binarySearch {
-    // only for sorted
+    // only for sorted array
 
  static int binarySearch(int arr[], int s, int e,int k){
      int mid;
