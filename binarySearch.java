@@ -1,3 +1,4 @@
+// static can only call static.... super class is udsed to to call parent constructor
 import java.util.Scanner;
 public class binarySearch {
     // only for sorted array
